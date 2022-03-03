@@ -1,0 +1,28 @@
+p {
+    /*
+    List of properties
+    */
+    font-family: Arial;
+    font-weight: bold;
+    line-height: 1.7em;
+  }
+  
+  #second-paragraph {
+    color: blue;
+  }
+
+  #code-editor-container {
+    position: absolute;
+    width: 300px;
+  }
+
+  .CodeMirror {
+    border: 1px solid #eee;
+    /* width:  300px; */
+    height: 100px;
+  }
+
+  div#code-editor-handle {
+    height: 20px;
+    background-color: black;
+  }
